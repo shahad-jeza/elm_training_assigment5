@@ -1,0 +1,7 @@
+/Users/shahadjeza/Documents/ELM_training/ECommerceSystem/obj/Debug/net9.0/ECommerceSystem.csproj.AssemblyReference.cache
+/Users/shahadjeza/Documents/ELM_training/ECommerceSystem/obj/Debug/net9.0/ECommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahadjeza/Documents/ELM_training/ECommerceSystem/obj/Debug/net9.0/ECommerceSystem.AssemblyInfoInputs.cache
+/Users/shahadjeza/Documents/ELM_training/ECommerceSystem/obj/Debug/net9.0/ECommerceSystem.AssemblyInfo.cs
+/Users/shahadjeza/Documents/ELM_training/ECommerceSystem/obj/Debug/net9.0/ECommerceSystem.csproj.CoreCompileInputs.cache
+/Users/shahadjeza/Documents/ELM_training/ECommerceSystem/obj/Debug/net9.0/ECommerceSystem.MvcApplicationPartsAssemblyInfo.cs
+/Users/shahadjeza/Documents/ELM_training/ECommerceSystem/obj/Debug/net9.0/ECommerceSystem.MvcApplicationPartsAssemblyInfo.cache
